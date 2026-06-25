@@ -101,8 +101,8 @@
   <text x="590" y="146" class="s">orgánica: derechos</text>
   <text x="590" y="161" class="s">fundamentales</text>
   <text x="590" y="176" class="s">ordinaria: el resto</text>
-  <rect x="140" y="214" width="440" height="54" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="238" class="s" style="font-weight:700;fill:#b5740f">Pregunta clásica: el ámbito es universal (no solo empleo ni solo poderes públicos)</text>
+  <rect x="80" y="214" width="560" height="54" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="360" y="238" class="s" style="font-weight:700;fill:#b5740f;font-size:9.5px">Pregunta clásica: el ámbito es universal (no solo empleo ni solo poderes públicos)</text>
   <text x="360" y="256" class="s">y el rango es mixto (orgánico solo donde hay derecho fundamental)</text>
 </svg>
 ```
@@ -233,8 +233,8 @@
   <rect x="380" y="232" width="300" height="60" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="530" y="256" class="t" style="font-weight:700">Presencia equilibrada</text>
   <text x="530" y="276" class="s">40-60 % · DA 1.ª + art. 53 (= 60.1 TREBEP)</text>
-  <rect x="180" y="306" width="360" height="28" rx="6" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="324" class="s" style="font-weight:700;fill:#b5740f">Ningún sexo supera el 60 % ni baja del 40 % en órganos de selección</text>
+  <rect x="120" y="306" width="480" height="28" rx="6" fill="#fff5e6" stroke="#e89822"/>
+  <text x="360" y="324" class="s" style="font-weight:700;fill:#b5740f;font-size:9.5px">Ningún sexo supera el 60 % ni baja del 40 % en órganos de selección</text>
 </svg>
 ```
 
@@ -347,8 +347,8 @@
   <text x="580" y="210" class="t" style="font-weight:700">AA.PP.</text>
   <text x="580" y="231" class="s">formación, protocolos,</text>
   <text x="580" y="246" class="s">unidades de igualdad LGTBI</text>
-  <rect x="160" y="272" width="400" height="34" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="360" y="293" class="s" style="font-weight:700;fill:#0055a0">Misma tutela que la LOIEMH: directa/indirecta, acoso, inversión de la prueba</text>
+  <rect x="110" y="272" width="500" height="34" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="360" y="293" class="s" style="font-weight:700;fill:#0055a0;font-size:9.5px">Misma tutela que la LOIEMH: directa/indirecta, acoso, inversión de la prueba</text>
 </svg>
 ```
 
