@@ -8,6 +8,8 @@
 
 **Estado**: Pendiente de validación por María / Ana (IAM).
 
+> **QA post-generación (mismo día, pre-validación)**: barrido getBBox sobre los 12 SVG renderizados con Chrome headless. Se detectó y corrigió texto que desbordaba/rozaba el borde de su caja en **D1** (Formal/Material art. 14/9.2), **D2** (pregunta clásica ámbito universal), **D5** (presencia equilibrada 40-60 %) y **D8** (misma tutela LOIEMH): se ensancharon las cajas y se redujo la fuente de esas líneas a 9,5 px. Resultado final: **todos los textos con margen ≥ 6 px respecto a su caja**. No afecta al contenido, solo a la maquetación de los diagramas. Criterio de QA reforzado: exigir margen mínimo de 6 px, no solo "no desborda".
+
 ### Alcance y decisiones
 
 - **Fuentes nucleares**: **LOIEMH (LO 3/2007)**, **Ley 4/2023** y **III Plan de Igualdad 2024-2027** del Ayuntamiento de Madrid.
