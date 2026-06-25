@@ -60,8 +60,8 @@
   <text x="580" y="130" class="t" style="font-weight:700">III Plan Ayto Madrid</text>
   <text x="580" y="149" class="s">2024-2027 · empleo</text>
   <text x="580" y="165" class="s">público municipal</text>
-  <rect x="150" y="216" width="420" height="44" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="237" class="s" style="font-weight:700;fill:#b5740f">Formal (art. 14): no discriminar · Material (art. 9.2): promover y remover obstáculos</text>
+  <rect x="90" y="216" width="540" height="44" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="360" y="237" class="s" style="font-weight:700;fill:#b5740f;font-size:9.5px">Formal (art. 14): no discriminar · Material (art. 9.2): promover y remover obstáculos</text>
   <text x="360" y="253" class="s">la igualdad material fundamenta las acciones positivas</text>
   <rect x="210" y="280" width="300" height="44" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="360" y="301" class="t" style="font-weight:700">art. 23.2 CE</text>
