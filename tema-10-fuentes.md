@@ -36,11 +36,11 @@ A diferencia de los temas puramente normativos, aquí **los datos del III Plan s
 
 ### Esquema de referencia para el contenido
 
-- **Articulado LOIEMH**: `[LOIEMH, art. X]` o `[LOIEMH, art. X.Y]` — p. ej. `[LOIEMH, art. 6.2]`
-- **Ley trans/LGTBI**: `[L4/2023, art. X]`
+- **Articulado LOIEMH**: `(art. X LOIEMH)` o `(art. X.Y LOIEMH)` — p. ej. `(art. 6.2 LOIEMH)`
+- **Ley trans/LGTBI**: `(art. X Ley 4/2023)`
 - **III Plan municipal**: `[IIIPLAN]` o `[IIIPLAN, Línea N / obj. N.N]`
-- **Constitución**: `[CE, art. 14]`
-- **Estatuto Básico**: `[TREBEP, art. 14.i]` · `[TREBEP, DA 7.ª]`
+- **Constitución**: `(art. 14 CE)`
+- **Estatuto Básico**: `(art. 14.i TREBEP)` · `(DA 7.ª TREBEP)`
 
 ---
 
@@ -54,7 +54,7 @@ A diferencia de los temas puramente normativos, aquí **los datos del III Plan s
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado va acompañada de `[LOIEMH, art. X]` o `[L4/2023, art. X]`.
+1. Toda afirmación que reproduzca el articulado va acompañada de `(art. X LOIEMH)` o `(art. X Ley 4/2023)`.
 2. Los datos memorísticos (porcentajes, umbrales, plazos, órganos) se marcan con `[DATO CLAVE]`.
 3. Las reproducciones literales o paráfrasis cercanas del articulado, incluida la Constitución, se marcan con `[CITA NORMATIVA]`.
 4. La aplicación al Ayuntamiento de Madrid (III Plan, IAM) se marca con `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.

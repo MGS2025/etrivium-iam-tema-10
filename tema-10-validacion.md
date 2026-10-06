@@ -19,7 +19,7 @@
 
 - [ ] Las fuentes nucleares son la **LOIEMH (LO 3/2007)**, la **Ley 4/2023** y el **III Plan 2024-2027**, en sus versiones vigentes.
 - [ ] Los datos del **III Plan** se han **verificado contra el documento oficial** (Portal de Transparencia del Ayto. de Madrid).
-- [ ] Cada afirmación que reproduce el articulado está referenciada con `[LOIEMH, art. X]` / `[L4/2023, art. X]`.
+- [ ] Cada afirmación que reproduce el articulado está referenciada con `(art. X LOIEMH)` / `(art. X Ley 4/2023)`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un precepto o a un contenido verificado del Plan.
 
 ## 2. Estructura del contenido

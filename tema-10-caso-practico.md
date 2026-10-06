@@ -29,9 +29,9 @@
 
 **Solución orientativa**:
 
-1. (a) **Discriminación directa** por razón de sexo: trato menos favorable explícito [LOIEMH, art. 6.1]. (b) **Discriminación indirecta**: criterio aparentemente neutro que produce desventaja particular a un sexo [LOIEMH, art. 6.2]. (c) **Discriminación directa** por embarazo/maternidad [LOIEMH, art. 8].
-2. Solo para la **indirecta** (b) prevé la ley la justificación objetiva: en atención a una **finalidad legítima** y siempre que los medios para alcanzarla sean **necesarios y adecuados** [LOIEMH, art. 6.2]; el artículo 6.1 y el artículo 8 no prevén esa justificación para la directa (a) ni para la de embarazo (c).
-3. Son **nulas y sin efecto** y dan lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones reales, efectivas y proporcionadas al perjuicio sufrido y, en su caso, de un sistema eficaz y disuasorio de sanciones [LOIEMH, art. 10].
+1. (a) **Discriminación directa** por razón de sexo: trato menos favorable explícito (art. 6.1 LOIEMH). (b) **Discriminación indirecta**: criterio aparentemente neutro que produce desventaja particular a un sexo (art. 6.2 LOIEMH). (c) **Discriminación directa** por embarazo/maternidad (art. 8 LOIEMH).
+2. Solo para la **indirecta** (b) prevé la ley la justificación objetiva: en atención a una **finalidad legítima** y siempre que los medios para alcanzarla sean **necesarios y adecuados** (art. 6.2 LOIEMH); el artículo 6.1 y el artículo 8 no prevén esa justificación para la directa (a) ni para la de embarazo (c).
+3. Son **nulas y sin efecto** y dan lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones reales, efectivas y proporcionadas al perjuicio sufrido y, en su caso, de un sistema eficaz y disuasorio de sanciones (art. 10 LOIEMH).
 4. La **prohibición** se funda en el **artículo 14 CE** (igualdad formal); la **promoción activa**, en el **artículo 9.2 CE** (igualdad material).
 
 **Criterios de evaluación**: distinguir correctamente directa/indirecta; reconocer que solo la indirecta admite justificación objetiva; aplicar la nulidad del artículo 10; y conectar arts. 14 y 9.2 CE.
@@ -51,10 +51,10 @@
 
 **Solución orientativa**:
 
-1. (a) **Acoso sexual**: comportamiento verbal o físico de **naturaleza sexual** que atenta contra la dignidad de la persona [LOIEMH, art. 7.1]. (b) **Acoso por razón de sexo**: comportamiento **realizado en función del sexo** de una persona que atenta contra su dignidad y crea un entorno ofensivo [LOIEMH, art. 7.2].
-2. **Sí**: el acoso sexual y el acoso por razón de sexo se consideran en todo caso **discriminatorios** [LOIEMH, art. 7.3].
-3. Un **protocolo de actuación** negociado con la representación legal del personal [LOIEMH, art. 62], que comprenderá al menos: el compromiso de prevenir y no tolerar el acoso; la instrucción a todo el personal de su deber de respetar la dignidad y la intimidad; el **tratamiento reservado de las denuncias**; y la **identificación de las personas responsables** de atender las quejas o denuncias (conectado con el objetivo 3.8 del III Plan y el protocolo del Acuerdo-Convenio).
-4. Como **discriminación por razón de sexo** [LOIEMH, art. 9]: se considera tal cualquier trato adverso o efecto negativo que se produzca como consecuencia de la presentación de una denuncia destinada a impedir la discriminación.
+1. (a) **Acoso sexual**: comportamiento verbal o físico de **naturaleza sexual** que atenta contra la dignidad de la persona (art. 7.1 LOIEMH). (b) **Acoso por razón de sexo**: comportamiento **realizado en función del sexo** de una persona que atenta contra su dignidad y crea un entorno ofensivo (art. 7.2 LOIEMH).
+2. **Sí**: el acoso sexual y el acoso por razón de sexo se consideran en todo caso **discriminatorios** (art. 7.3 LOIEMH).
+3. Un **protocolo de actuación** negociado con la representación legal del personal (art. 62 LOIEMH), que comprenderá al menos: el compromiso de prevenir y no tolerar el acoso; la instrucción a todo el personal de su deber de respetar la dignidad y la intimidad; el **tratamiento reservado de las denuncias**; y la **identificación de las personas responsables** de atender las quejas o denuncias (conectado con el objetivo 3.8 del III Plan y el protocolo del Acuerdo-Convenio).
+4. Como **discriminación por razón de sexo** (art. 9 LOIEMH): se considera tal cualquier trato adverso o efecto negativo que se produzca como consecuencia de la presentación de una denuncia destinada a impedir la discriminación.
 
 **Criterios de evaluación**: separar naturaleza sexual (7.1) de comportamiento en función del sexo (7.2); afirmar que ambos son discriminatorios (7.3); citar el protocolo (art. 62) y la indemnidad (art. 9).
 
@@ -74,9 +74,9 @@
 **Solución orientativa**:
 
 1. La regla del **artículo 13 LOIEMH**: cuando las alegaciones de la parte actora se fundamentan en actuaciones discriminatorias por razón de sexo, corresponde a la persona demandada probar la ausencia de discriminación.
-2. Recae sobre la **persona demandada** (la Administración), que debe probar la **ausencia de discriminación** en las medidas adoptadas y su **proporcionalidad** [LOIEMH, art. 13.1].
-3. **No** se aplica a los **procesos penales** [LOIEMH, art. 13.2].
-4. **Sí**: cualquier trato adverso o efecto negativo como consecuencia de su reclamación se considera también discriminación por razón de sexo [LOIEMH, art. 9].
+2. Recae sobre la **persona demandada** (la Administración), que debe probar la **ausencia de discriminación** en las medidas adoptadas y su **proporcionalidad** (art. 13.1 LOIEMH).
+3. **No** se aplica a los **procesos penales** (art. 13.2 LOIEMH).
+4. **Sí**: cualquier trato adverso o efecto negativo como consecuencia de su reclamación se considera también discriminación por razón de sexo (art. 9 LOIEMH).
 
 **Criterios de evaluación**: explicar la regla del artículo 13; identificar a la persona demandada como obligada a probar; excluir los procesos penales; conectar con la indemnidad (art. 9).
 
@@ -95,7 +95,7 @@
 
 **Solución orientativa**:
 
-1. La **composición equilibrada**: las personas de cada sexo no superen el 60 % ni sean menos del 40 % [LOIEMH, **DA 1.ª**]; las Administraciones públicas deben promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración [LOIEMH, art. 51.d] (en la AGE la impone el art. 53).
+1. La **composición equilibrada**: las personas de cada sexo no superen el 60 % ni sean menos del 40 % [LOIEMH, **DA 1.ª**]; las Administraciones públicas deben promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración (art. 51.d LOIEMH) (en la AGE la impone el art. 53).
 2. Para 9 miembros: el 40 % son 3,6 y el 60 % son 5,4; por tanto, cada sexo debe estar representado por **entre 4 y 5 personas** (redondeando dentro de la banda). La propuesta (7 hombres / 2 mujeres) **no respeta** el mínimo del 40 % de mujeres.
 3. Con el **artículo 60.1 del TREBEP**: los órganos de selección serán colegiados, su composición se ajustará a los principios de imparcialidad y profesionalidad y «se tenderá, asimismo, a la paridad entre mujer y hombre».
 4. El artículo 53 LOIEMH, aplicable a la AGE, admite excepciones **por razones fundadas y objetivas, debidamente motivadas**; en su defecto, debe recomponerse el tribunal.
@@ -117,10 +117,10 @@
 
 **Solución orientativa**:
 
-1. **No es cierto**: el ejercicio del derecho a la rectificación registral en ningún caso podrá estar condicionado a la previa exhibición de **informe médico o psicológico**, ni a la previa modificación de la apariencia o función corporal [L4/2023, art. 44.3]. La pueden solicitar por sí mismas las personas de nacionalidad española mayores de **16 años** [L4/2023, art. 43.1].
-2. Una comparecencia inicial ante la persona encargada del Registro Civil [art. 44.4]; una segunda comparecencia para **ratificar** la solicitud en el plazo máximo de **tres meses** [art. 44.8]; y la resolución en el plazo máximo de **un mes** desde esta [art. 44.9], recurrible en alzada ante la Dirección General de Seguridad Jurídica y Fe Pública [art. 44.10].
-3. Actualizar los datos en todos los sistemas garantizando la **confidencialidad** y la exactitud; aplicar el principio de **datos desagregados por sexo** solo con fines estadísticos legítimos [LOIEMH, art. 20]; evitar tratamientos que revelen el historial de rectificación.
-4. **Orientación sexual** (atracción física, sexual o afectiva hacia una persona), **identidad sexual** (vivencia interna e individual del sexo tal y como cada persona la siente y autodefine) y **expresión de género** (manifestación que cada persona hace de su identidad sexual) [L4/2023, art. 3.h, i y j]: la ley define cada una por separado.
+1. **No es cierto**: el ejercicio del derecho a la rectificación registral en ningún caso podrá estar condicionado a la previa exhibición de **informe médico o psicológico**, ni a la previa modificación de la apariencia o función corporal (art. 44.3 Ley 4/2023). La pueden solicitar por sí mismas las personas de nacionalidad española mayores de **16 años** (art. 43.1 Ley 4/2023).
+2. Una comparecencia inicial ante la persona encargada del Registro Civil (art. 44.4); una segunda comparecencia para **ratificar** la solicitud en el plazo máximo de **tres meses** (art. 44.8); y la resolución en el plazo máximo de **un mes** desde esta (art. 44.9), recurrible en alzada ante la Dirección General de Seguridad Jurídica y Fe Pública (art. 44.10).
+3. Actualizar los datos en todos los sistemas garantizando la **confidencialidad** y la exactitud; aplicar el principio de **datos desagregados por sexo** solo con fines estadísticos legítimos (art. 20 LOIEMH); evitar tratamientos que revelen el historial de rectificación.
+4. **Orientación sexual** (atracción física, sexual o afectiva hacia una persona), **identidad sexual** (vivencia interna e individual del sexo tal y como cada persona la siente y autodefine) y **expresión de género** (manifestación que cada persona hace de su identidad sexual) (art. 3.h Ley 4/2023, i y j): la ley define cada una por separado.
 
 **Criterios de evaluación**: desmentir el requisito médico (art. 44.3); describir el procedimiento (art. 44); aplicar confidencialidad y exactitud en los sistemas; separar las tres categorías del artículo 3.
 
