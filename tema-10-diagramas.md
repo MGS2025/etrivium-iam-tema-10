@@ -502,8 +502,8 @@
   <text x="360" y="106" class="t" style="font-weight:700">Ley 4/2023</text>
   <text x="360" y="126" class="s">objeto y ámbito (1-2)</text>
   <text x="360" y="142" class="s">3 conceptos clave (3)</text>
-  <text x="360" y="158" class="s">orientación · identidad</text>
-  <text x="360" y="174" class="s">· expresión de género</text>
+  <text x="360" y="158" class="s">orientación · identidad ·</text>
+  <text x="360" y="174" class="s">expresión de género</text>
   <text x="360" y="190" class="s">rectificación registral (43)</text>
   <rect x="484" y="84" width="216" height="120" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="592" y="106" class="t" style="font-weight:700">III Plan Madrid</text>
