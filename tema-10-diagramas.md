@@ -14,9 +14,9 @@
 | ID  | Título                                                       | Sección | Tipo |
 |-----|--------------------------------------------------------------|---------|------|
 | D1  | El marco normativo de la igualdad                            | § 1     | Esquema |
-| D2  | LOIEMH: objeto, ámbito y carácter mixto                      | § 2     | Esquema |
+| D2  | LOIEMH: objeto, ámbito y naturaleza                          | § 2     | Esquema |
 | D3  | Discriminación y acoso (arts. 6-8)                           | § 3     | Árbol |
-| D4  | La tutela: indemnidad e inversión de la carga de la prueba   | § 4     | Flujo |
+| D4  | La tutela: indemnidad y prueba                               | § 4     | Flujo |
 | D5  | Políticas públicas y empleo público                          | § 5     | Esquema |
 | D6  | Planes de igualdad en las empresas (≥ 50)                    | § 6     | Esquema |
 | D7  | Ley 4/2023: los tres conceptos clave                         | § 7     | Comparativa |
@@ -71,13 +71,13 @@
 
 ---
 
-## D2 · LOIEMH: objeto, ámbito y carácter mixto
+## D2 · LOIEMH: objeto, ámbito y naturaleza
 
 **Sección**: § 2 — LO 3/2007
-**Propósito**: Fijar el objeto (art. 1), el ámbito universal (art. 2) y el carácter mixto de la ley.
+**Propósito**: Fijar el objeto (art. 1), el ámbito (art. 2) y los preceptos con carácter orgánico (DF 2.ª).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La Ley Orgánica 3/2007 tiene por objeto hacer efectiva la igualdad de trato y oportunidades; su ámbito alcanza a toda persona física o jurídica en territorio español; y es de carácter mixto, orgánica en derechos fundamentales y ordinaria en el resto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La Ley Orgánica 3/2007 tiene por objeto hacer efectiva la igualdad de trato y oportunidades; su ámbito alcanza a toda persona física o jurídica en territorio español; y solo sus disposiciones adicionales primera, segunda y tercera tienen carácter orgánico">
   <style>
     .h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -97,13 +97,13 @@
   <text x="360" y="161" class="s">o jurídica en</text>
   <text x="360" y="176" class="s">territorio español</text>
   <rect x="490" y="100" width="200" height="80" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
-  <text x="590" y="124" class="t" style="font-weight:700">Carácter mixto</text>
-  <text x="590" y="146" class="s">orgánica: derechos</text>
-  <text x="590" y="161" class="s">fundamentales</text>
-  <text x="590" y="176" class="s">ordinaria: el resto</text>
+  <text x="590" y="124" class="t" style="font-weight:700">Naturaleza (DF 2.ª)</text>
+  <text x="590" y="146" class="s">orgánicas: solo</text>
+  <text x="590" y="161" class="s">DA 1.ª, 2.ª y 3.ª</text>
+  <text x="590" y="176" class="s">resto: no orgánico</text>
   <rect x="80" y="214" width="560" height="54" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="238" class="s" style="font-weight:700;fill:#b5740f;font-size:9.5px">Pregunta clásica: el ámbito es universal (no solo empleo ni solo poderes públicos)</text>
-  <text x="360" y="256" class="s">y el rango es mixto (orgánico solo donde hay derecho fundamental)</text>
+  <text x="360" y="238" class="s" style="font-weight:700;fill:#b5740f;font-size:9.5px">Clave: el ámbito alcanza a toda persona (no solo empleo ni poderes públicos)</text>
+  <text x="360" y="256" class="s">y solo las DA 1.ª a 3.ª tienen carácter orgánico (DF 2.ª)</text>
 </svg>
 ```
 
@@ -115,7 +115,7 @@
 **Propósito**: Distinguir discriminación directa/indirecta y acoso sexual/por razón de sexo.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="La discriminación por razón de sexo puede ser directa (trato menos favorable) o indirecta (criterio neutro con desventaja particular, salvo justificación objetiva); el acoso puede ser sexual (de naturaleza sexual) o por razón de sexo (relacionado con el sexo); ambos acosos son discriminatorios">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="La discriminación por razón de sexo puede ser directa (trato menos favorable) o indirecta (criterio neutro con desventaja particular, salvo justificación objetiva); el acoso puede ser sexual (de naturaleza sexual) o por razón de sexo (realizado en función del sexo); ambos acosos son discriminatorios">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -148,23 +148,23 @@
   <rect x="50" y="266" width="260" height="76" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="180" y="288" class="t" style="font-weight:700">Acoso SEXUAL (art. 7.1)</text>
   <text x="180" y="309" class="s">comportamiento de</text>
-  <text x="180" y="325" class="s">NATURALEZA sexual no deseado</text>
+  <text x="180" y="325" class="s">NATURALEZA sexual (verbal o físico)</text>
   <rect x="410" y="266" width="260" height="76" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="540" y="288" class="t" style="font-weight:700">Acoso POR RAZÓN de sexo (7.2)</text>
-  <text x="540" y="309" class="s">comportamiento RELACIONADO</text>
-  <text x="540" y="325" class="s">con el sexo, no necesariamente sexual</text>
+  <text x="540" y="309" class="s">comportamiento realizado</text>
+  <text x="540" y="325" class="s">EN FUNCIÓN del sexo de una persona</text>
 </svg>
 ```
 
 ---
 
-## D4 · La tutela: indemnidad e inversión de la carga de la prueba
+## D4 · La tutela: indemnidad y prueba
 
 **Sección**: § 4 — Tutela
-**Propósito**: Mostrar el mecanismo de la garantía de indemnidad (art. 9) y la inversión de la prueba (art. 13).
+**Propósito**: Mostrar la indemnidad frente a represalias (art. 9) y la regla de prueba (art. 13).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La persona que reclama está protegida por la garantía de indemnidad del artículo 9; en el proceso, aportados indicios fundados por quien demanda, corresponde a la parte demandada probar que no hubo discriminación, según el artículo 13, salvo en el proceso penal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="Cualquier trato adverso como consecuencia de una queja, reclamación, denuncia, demanda o recurso es discriminación según el artículo 9; en los procedimientos en que la parte actora alega discriminación por razón de sexo, corresponde a la persona demandada probar la ausencia de discriminación, según el artículo 13, salvo en los procesos penales">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -173,25 +173,25 @@
   <rect x="40" y="30" width="180" height="70" rx="8" fill="#0055a0"/>
   <text x="130" y="58" class="h">Parte que demanda</text>
   <text x="130" y="78" class="h" style="font-weight:400;font-size:10px">alega discriminación</text>
-  <text x="130" y="93" class="h" style="font-weight:400;font-size:10px">+ INDICIOS FUNDADOS</text>
+  <text x="130" y="93" class="h" style="font-weight:400;font-size:10px">por razón de sexo</text>
   <line x1="220" y1="65" x2="290" y2="65" stroke="#555" stroke-width="2" marker-end="url(#a4)"/>
   <defs><marker id="a4" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#555"/></marker></defs>
   <rect x="290" y="30" width="180" height="70" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
-  <text x="380" y="58" class="t" style="font-weight:700">Inversión (art. 13)</text>
-  <text x="380" y="79" class="s">la carga pasa a</text>
-  <text x="380" y="93" class="s">la otra parte</text>
+  <text x="380" y="58" class="t" style="font-weight:700">Prueba (art. 13)</text>
+  <text x="380" y="79" class="s">la carga recae en</text>
+  <text x="380" y="93" class="s">la persona demandada</text>
   <line x1="470" y1="65" x2="540" y2="65" stroke="#555" stroke-width="2" marker-end="url(#a4)"/>
   <rect x="540" y="30" width="160" height="70" rx="8" fill="#2d8659"/>
   <text x="620" y="58" class="h">Parte demandada</text>
-  <text x="620" y="79" class="h" style="font-weight:400;font-size:10px">debe probar que</text>
-  <text x="620" y="93" class="h" style="font-weight:400;font-size:10px">NO discriminó</text>
+  <text x="620" y="79" class="h" style="font-weight:400;font-size:10px">prueba la AUSENCIA de</text>
+  <text x="620" y="93" class="h" style="font-weight:400;font-size:10px">discriminación</text>
   <rect x="120" y="140" width="480" height="48" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="162" class="s" style="font-weight:700;fill:#b5740f">Excepción: la inversión de la carga NO se aplica al proceso penal</text>
-  <text x="360" y="179" class="s">en lo demás (laboral, civil, contencioso) sí opera</text>
+  <text x="360" y="162" class="s" style="font-weight:700;fill:#b5740f">Excepción: esta regla NO se aplica a los procesos penales</text>
+  <text x="360" y="179" class="s">(art. 13.2 LOIEMH)</text>
   <rect x="120" y="216" width="480" height="74" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="360" y="240" class="t" style="font-weight:700">Garantía de indemnidad (art. 9)</text>
-  <text x="360" y="262" class="s">cualquier trato adverso como REACCIÓN a una reclamación</text>
-  <text x="360" y="279" class="s">contra la discriminación es, en sí mismo, discriminación</text>
+  <text x="360" y="240" class="t" style="font-weight:700">Indemnidad frente a represalias (art. 9)</text>
+  <text x="360" y="262" class="s">trato adverso o efecto negativo como consecuencia de una</text>
+  <text x="360" y="279" class="s">queja, reclamación, denuncia o recurso = discriminación</text>
 </svg>
 ```
 
@@ -217,7 +217,7 @@
   <text x="190" y="126" class="s">la igualdad informa TODAS las políticas</text>
   <rect x="380" y="84" width="300" height="56" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="530" y="106" class="t" style="font-weight:700">Acciones positivas (art. 11)</text>
-  <text x="530" y="126" class="s">a favor de la mujer · temporales y proporcionadas</text>
+  <text x="530" y="126" class="s">en favor de las mujeres · razonables y proporcionadas</text>
   <rect x="40" y="156" width="200" height="60" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="140" y="180" class="t" style="font-weight:700">Impacto de género</text>
   <text x="140" y="200" class="s">disposiciones grales. (art. 19)</text>
@@ -226,13 +226,13 @@
   <text x="360" y="200" class="s">variable sexo desagregada</text>
   <rect x="480" y="156" width="200" height="60" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="580" y="180" class="t" style="font-weight:700">Protocolo acoso (art. 62)</text>
-  <text x="580" y="200" class="s">en la AGE</text>
+  <text x="580" y="200" class="s">negociado en las AAPP</text>
   <rect x="40" y="232" width="320" height="60" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="200" y="256" class="t" style="font-weight:700">Plan de Igualdad AGE (art. 64)</text>
-  <text x="200" y="276" class="s">en convenio o acuerdo aplicable</text>
+  <text x="200" y="276" class="s">lo aprueba el Gobierno al inicio de cada legislatura</text>
   <rect x="380" y="232" width="300" height="60" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="530" y="256" class="t" style="font-weight:700">Presencia equilibrada</text>
-  <text x="530" y="276" class="s">40-60 % · DA 1.ª + art. 53 (= 60.1 TREBEP)</text>
+  <text x="530" y="276" class="s">40-60 % · DA 1.ª · arts. 51.d y 53</text>
   <rect x="120" y="306" width="480" height="28" rx="6" fill="#fff5e6" stroke="#e89822"/>
   <text x="360" y="324" class="s" style="font-weight:700;fill:#b5740f;font-size:9.5px">Ningún sexo supera el 60 % ni baja del 40 % en órganos de selección</text>
 </svg>
@@ -246,7 +246,7 @@
 **Propósito**: Fijar el umbral de 50 personas, el contenido mínimo y el registro.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Las empresas de cincuenta o más personas trabajadoras deben elaborar y aplicar un plan de igualdad, previa negociación; debe partir de un diagnóstico e incluir medidas, objetivos, calendario y seguimiento, y es objeto de registro y acceso público">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Las empresas de cincuenta o más personas trabajadoras deben elaborar y aplicar un plan de igualdad, previa negociación; debe partir de un diagnóstico y fijar medidas, objetivos, estrategias y seguimiento, y se inscribe en el Registro de Planes de Igualdad">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -265,9 +265,9 @@
   <text x="520" y="146" class="s">de la plantilla</text>
   <rect x="60" y="170" width="600" height="58" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="360" y="192" class="t" style="font-weight:700">Contenido mínimo (art. 46)</text>
-  <text x="360" y="213" class="s">diagnóstico → medidas → objetivos → recursos → calendario → seguimiento y evaluación</text>
+  <text x="360" y="213" class="s">diagnóstico → medidas → objetivos → estrategias y prácticas → seguimiento y evaluación</text>
   <rect x="160" y="248" width="400" height="40" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="272" class="s" style="font-weight:700;fill:#b5740f">Registro, depósito y acceso público del plan</text>
+  <text x="360" y="272" class="s" style="font-weight:700;fill:#b5740f">Inscripción obligatoria en el Registro (art. 46.5)</text>
 </svg>
 ```
 
@@ -276,10 +276,10 @@
 ## D7 · Ley 4/2023: los tres conceptos clave
 
 **Sección**: § 7 — Ley 4/2023
-**Propósito**: Separar orientación sexual, identidad de género y expresión de género como categorías independientes.
+**Propósito**: Separar orientación sexual, identidad sexual y expresión de género, que el art. 3 define por separado.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La Ley 4/2023 define tres categorías independientes en su artículo 3: orientación sexual (hacia quién hay atracción), identidad de género (cómo se siente cada persona) y expresión de género (cómo se manifiesta); todas están protegidas">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La Ley 4/2023 define en su artículo 3 la orientación sexual (atracción física, sexual o afectiva hacia una persona), la identidad sexual (vivencia interna e individual del sexo) y la expresión de género (manifestación que cada persona hace de su identidad sexual)">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -287,26 +287,26 @@
   </style>
   <rect x="230" y="14" width="260" height="46" rx="8" fill="#003d75"/>
   <text x="360" y="35" class="h">Ley 4/2023 · art. 3</text>
-  <text x="360" y="52" class="h" style="font-weight:400;font-size:10px">tres categorías independientes</text>
+  <text x="360" y="52" class="h" style="font-weight:400;font-size:10px">tres conceptos definidos</text>
   <rect x="30" y="92" width="210" height="110" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="135" y="118" class="t" style="font-weight:700">Orientación sexual</text>
-  <text x="135" y="146" class="s">atracción emocional,</text>
-  <text x="135" y="162" class="s">afectiva o sexual</text>
+  <text x="135" y="146" class="s">atracción física,</text>
+  <text x="135" y="162" class="s">sexual o afectiva</text>
   <text x="135" y="184" class="s" style="font-style:italic">¿hacia quién?</text>
   <rect x="255" y="92" width="210" height="110" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="360" y="118" class="t" style="font-weight:700">Identidad de género</text>
+  <text x="360" y="118" class="t" style="font-weight:700">Identidad sexual</text>
   <text x="360" y="146" class="s">vivencia interna</text>
-  <text x="360" y="162" class="s">e individual del género</text>
+  <text x="360" y="162" class="s">e individual del sexo</text>
   <text x="360" y="184" class="s" style="font-style:italic">¿cómo me siento?</text>
   <rect x="480" y="92" width="210" height="110" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="585" y="118" class="t" style="font-weight:700">Expresión de género</text>
-  <text x="585" y="146" class="s">manifestación externa</text>
-  <text x="585" y="162" class="s">de la identidad</text>
+  <text x="585" y="146" class="s">manifestación que cada</text>
+  <text x="585" y="162" class="s">persona hace de su identidad</text>
   <text x="585" y="184" class="s" style="font-style:italic">¿cómo me muestro?</text>
   <rect x="120" y="236" width="480" height="64" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="360" y="260" class="t" style="font-weight:700">No confundir</text>
-  <text x="360" y="281" class="s">son ejes distintos e independientes: una no determina las otras;</text>
-  <text x="360" y="296" class="s">la ley protege las tres (+ características sexuales: intersexualidad)</text>
+  <text x="360" y="281" class="s">el art. 3 define cada concepto por separado;</text>
+  <text x="360" y="296" class="s">el art. 4 añade las características sexuales</text>
 </svg>
 ```
 
@@ -315,40 +315,40 @@
 ## D8 · Ley 4/2023: rectificación registral y medidas
 
 **Sección**: § 8 — Ley 4/2023
-**Propósito**: Mostrar la autodeterminación de género (sin requisitos médicos) y las medidas sectoriales.
+**Propósito**: Mostrar la rectificación registral (sin informe médico o psicológico) y las medidas sectoriales.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La rectificación registral de la mención al sexo se hace por declaración de voluntad sin informes médicos; pueden solicitarla por sí mismas las personas mayores de 16 años; la ley añade medidas laborales, planes LGTBI en empresas de más de 50 personas y medidas en las administraciones">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="La rectificación registral de la mención al sexo no puede condicionarse a informe médico o psicológico; pueden solicitarla por sí mismas las personas mayores de 16 años; la ley añade medidas en el empleo público, un conjunto planificado de medidas en empresas de más de 50 personas y formación en las administraciones">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
     .s{font:10px system-ui,sans-serif;fill:#555;text-anchor:middle}
   </style>
   <rect x="190" y="14" width="340" height="46" rx="8" fill="#003d75"/>
-  <text x="360" y="35" class="h">Autodeterminación de género</text>
-  <text x="360" y="52" class="h" style="font-weight:400;font-size:10px">rectificación registral · arts. 43 y ss.</text>
+  <text x="360" y="35" class="h">Rectificación registral del sexo</text>
+  <text x="360" y="52" class="h" style="font-weight:400;font-size:10px">Ley 4/2023 · arts. 43 y 44</text>
   <rect x="40" y="86" width="300" height="78" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="190" y="110" class="t" style="font-weight:700">Sin requisitos médicos</text>
-  <text x="190" y="131" class="s">simple declaración de voluntad</text>
-  <text x="190" y="147" class="s">NO informe ni tratamiento previo</text>
+  <text x="190" y="110" class="t" style="font-weight:700">Sin informe médico</text>
+  <text x="190" y="131" class="s">ni psicológico (art. 44.3)</text>
+  <text x="190" y="147" class="s">ni modificación corporal previa</text>
   <rect x="380" y="86" width="300" height="78" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="530" y="110" class="t" style="font-weight:700">Edad</text>
-  <text x="530" y="131" class="s">≥ 16 años: por sí mismas</text>
+  <text x="530" y="131" class="s">&gt; 16 años: por sí mismas</text>
   <text x="530" y="147" class="s">14-16: asistidas por representantes</text>
   <rect x="40" y="186" width="200" height="64" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="140" y="210" class="t" style="font-weight:700">Ámbito laboral</text>
-  <text x="140" y="231" class="s">protección frente al</text>
-  <text x="140" y="246" class="s">despido discriminatorio</text>
+  <text x="140" y="210" class="t" style="font-weight:700">Empleo público</text>
+  <text x="140" y="231" class="s">medidas en el acceso y la</text>
+  <text x="140" y="246" class="s">carrera profesional (art. 11)</text>
   <rect x="260" y="186" width="200" height="64" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="210" class="t" style="font-weight:700">Planes LGTBI</text>
+  <text x="360" y="210" class="t" style="font-weight:700">Medidas LGTBI</text>
   <text x="360" y="231" class="s">empresas &gt; 50 personas</text>
-  <text x="360" y="246" class="s">(RD 1026/2024)</text>
+  <text x="360" y="246" class="s">(art. 15 · RD 1026/2024)</text>
   <rect x="480" y="186" width="200" height="64" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="580" y="210" class="t" style="font-weight:700">AA.PP.</text>
-  <text x="580" y="231" class="s">formación, protocolos,</text>
-  <text x="580" y="246" class="s">unidades de igualdad LGTBI</text>
+  <text x="580" y="231" class="s">formación del personal y</text>
+  <text x="580" y="246" class="s">pruebas selectivas (art. 12)</text>
   <rect x="110" y="272" width="500" height="34" rx="6" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="360" y="293" class="s" style="font-weight:700;fill:#0055a0;font-size:9.5px">Misma tutela que la LOIEMH: directa/indirecta, acoso, inversión de la prueba</text>
+  <text x="360" y="293" class="s" style="font-weight:700;fill:#0055a0;font-size:9.5px">Tutela: nulidad (art. 64), legitimación (art. 65) y carga de la prueba (art. 66)</text>
 </svg>
 ```
 
@@ -360,7 +360,7 @@
 **Propósito**: Resumir la ficha del Plan: base legal, aprobación, vigencia y Comisión.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="El III Plan de Igualdad del Ayuntamiento de Madrid se funda en el artículo 64 de la LOIEMH y la disposición adicional séptima del TREBEP; se aprobó el 28 de diciembre de 2023 con vigencia 2024-2027; lo negocia la Comisión de Igualdad paritaria presidida por la Dirección General de Función Pública">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="El III Plan de Igualdad del Ayuntamiento de Madrid se funda en la disposición adicional séptima del TREBEP; se aprobó el 28 de diciembre de 2023 con vigencia 2024-2027; lo negocia la Comisión de Igualdad paritaria presidida por la Dirección General de Función Pública">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -368,10 +368,10 @@
   </style>
   <rect x="160" y="14" width="400" height="48" rx="8" fill="#003d75"/>
   <text x="360" y="36" class="h">III Plan de Igualdad — Ayto. de Madrid y OO.AA.</text>
-  <text x="360" y="54" class="h" style="font-weight:400;font-size:10px">instrumento de planificación obligatorio</text>
+  <text x="360" y="54" class="h" style="font-weight:400;font-size:10px">Plan para la Igualdad al inicio de cada legislatura</text>
   <rect x="40" y="86" width="320" height="58" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="200" y="108" class="t" style="font-weight:700">Base legal</text>
-  <text x="200" y="129" class="s">art. 64 LOIEMH + DA 7.ª TREBEP (Ley 31/2022)</text>
+  <text x="200" y="129" class="s">DA 7.ª TREBEP (Ley 31/2022)</text>
   <rect x="380" y="86" width="300" height="58" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="530" y="108" class="t" style="font-weight:700">Vigencia</text>
   <text x="530" y="129" class="s">1-ene-2024 a 31-dic-2027 (4 años)</text>
@@ -396,7 +396,7 @@
 **Propósito**: Visualizar las 3 líneas de intervención y el reparto de los 13 objetivos.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="El III Plan tiene tres líneas de intervención y trece objetivos específicos: la Institución con 3 objetivos, la Comunicación con 2 y las Personas con 8; la línea de Personas concentra la mayoría por incidir en las condiciones laborales">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="El III Plan tiene tres líneas de intervención y trece objetivos específicos: la Institución con 3 objetivos, la Comunicación con 2 y las Personas con 8">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -428,7 +428,7 @@
   <text x="580" y="192" class="s">objetivos (3.1-3.8)</text>
   <rect x="150" y="240" width="420" height="80" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="360" y="264" class="t" style="font-weight:700">Total: 3 líneas · 13 objetivos específicos</text>
-  <text x="360" y="286" class="s">la Línea 3 concentra 8 de los 13 por incidir en</text>
+  <text x="360" y="286" class="s">la Línea 3 concentra 8 de los 13:</text>
   <text x="360" y="302" class="s">acceso, provisión, salario, formación, conciliación y acoso</text>
 </svg>
 ```
@@ -519,6 +519,6 @@
   <text x="360" y="264" class="h">Técnico Auxiliar TIC · IAM</text>
   <text x="360" y="285" class="h" style="font-weight:400;font-size:9.5px">variable sexo en sistemas · teletrabajo (3.3) · protocolo acoso</text>
   <rect x="150" y="316" width="420" height="34" rx="6" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="337" class="s" style="font-weight:700;fill:#b5740f">Igualdad formal (art. 14 CE) + material (art. 9.2 CE) = base de todo el tema</text>
+  <text x="360" y="337" class="s" style="font-weight:700;fill:#b5740f">La LOIEMH desarrolla los arts. 9.2 y 14 CE (art. 1)</text>
 </svg>
 ```

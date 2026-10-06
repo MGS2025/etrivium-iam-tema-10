@@ -23,11 +23,10 @@ def inline(t):
     return t
 
 CALLOUTS = {
-    "DATO CLAVE EXAMEN": ("callout-dato", "Dato clave examen"),
-    "CITA CONSTITUCIONAL": ("callout-cita", "Cita constitucional"),
+    "DATO CLAVE": ("callout-dato", "Dato clave"),
     "CITA NORMATIVA": ("callout-cita", "Cita normativa"),
-    "EJEMPLO AYTO MADRID": ("callout-ayto", "Ejemplo Ayto Madrid"),
-    "REFERENCIA CRUZADA": ("callout-ref", "Referencia cruzada"),
+    "EJEMPLO DE APLICACIÓN EN EL AYTO": ("callout-ayto", "Ejemplo de aplicación en el Ayto"),
+    "RELACIÓN CON OTROS TEMAS": ("callout-ref", "Relación con otros temas"),
 }
 
 def md_to_html(md, skip_h1=True, drop_header_blockquote=True):
@@ -250,7 +249,7 @@ def build():
   </div>
   <div class="card">
     <h2 style="margin-top:0">Resumen del tema</h2>
-    <p>El tema integra <strong>dos leyes estatales</strong> y <strong>un plan municipal</strong>. La <strong>LO 3/2007 (LOIEMH)</strong> hace efectiva la igualdad de <strong>mujeres y hombres</strong>: define la <strong>discriminación directa e indirecta</strong> (art. 6), el <strong>acoso sexual y por razón de sexo</strong> (art. 7), la <strong>tutela</strong> (indemnidad del art. 9 e <strong>inversión de la carga de la prueba</strong> del art. 13), la <strong>transversalidad</strong> (art. 15), las <strong>acciones positivas</strong> (art. 11) y la <strong>presencia equilibrada 40-60 %</strong> (DA 1.ª + art. 53). La <strong>Ley 4/2023</strong> protege la <strong>orientación sexual, la identidad y la expresión de género</strong> (art. 3) y reconoce la <strong>rectificación registral sin requisitos médicos</strong> (arts. 43 y ss.). El <strong>III Plan del Ayuntamiento de Madrid (2024-2027)</strong> aplica la igualdad al empleo público municipal: <strong>3 líneas / 13 objetivos</strong>, Comisión de Igualdad paritaria y seguimiento semestral.</p>
+    <p>El tema integra <strong>dos leyes estatales</strong> y <strong>un plan municipal</strong>. La <strong>LO 3/2007 (LOIEMH)</strong> hace efectiva la igualdad de <strong>mujeres y hombres</strong>: define la <strong>discriminación directa e indirecta</strong> (art. 6), el <strong>acoso sexual y por razón de sexo</strong> (art. 7), la <strong>tutela</strong> (indemnidad del art. 9 y <strong>prueba a cargo de la persona demandada</strong> del art. 13), la <strong>transversalidad</strong> (art. 15), las <strong>acciones positivas</strong> (art. 11) y la <strong>composición equilibrada 40-60 %</strong> (DA 1.ª). La <strong>Ley 4/2023</strong> define la <strong>orientación sexual, la identidad sexual y la expresión de género</strong> (art. 3) y regula la <strong>rectificación registral sin informe médico o psicológico</strong> (arts. 43 y 44). El <strong>III Plan del Ayuntamiento de Madrid (2024-2027)</strong> aplica la igualdad al empleo público municipal: <strong>3 líneas / 13 objetivos</strong>, Comisión de Igualdad paritaria y seguimiento al menos semestral.</p>
   </div>
   <div class="card">
     <h2 style="margin-top:0">Cómo está organizado este material</h2>

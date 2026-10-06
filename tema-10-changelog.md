@@ -4,6 +4,41 @@
 
 ---
 
+## v1.2 — 2026-10-01 — Revisión jurídica
+
+**Motivo**: revisión jurídica de los temas 1-10 por la IAM.
+
+### Cambios de la revisión (pestaña Fuentes)
+
+1. Eliminada la tabla «Tier 2 — Material aportado por el cliente» (fila `[MAT-INDICE]`). La fila `[BOAM-10032]` (temario oficial) pasa a la tabla de fuentes primarias.
+2. Eliminada la fila «El material aportado por el cliente (Tier 2)» de la trazabilidad fuente → contenido → pregunta.
+
+### Correcciones comunes
+
+- Títulos de las cajas: «Dato clave», «Cita normativa» (también para la Constitución), «Ejemplo de aplicación en el Ayto» y «Relación con otros temas». La leyenda ya no promete que un dato aparecerá en el test oficial.
+- Fuera las promesas sobre el examen («pregunta clásica», «con valor de examen», «pieza clave examen») y las notas sobre el índice del cliente.
+- Citas de artículos: «artículo» completo cuando forma parte de la oración; «art.» abreviado en los incisos entre paréntesis.
+- Fuera las valoraciones fuera de las cajas («La distinción vertebra todo el tema», «Es una concreción del art. 6.1», «Es la garantía de indemnidad», «de especial relevancia para el empleo público», «mayor precariedad femenina», «por ser la que incide directamente en las condiciones laborales»…).
+
+### Correcciones de contenido contra el BOE consolidado
+
+- **Naturaleza de la LOIEMH**: según la DF 2.ª, solo las DA 1.ª, 2.ª y 3.ª tienen carácter orgánico; el texto decía que era orgánica «en lo relativo a derechos fundamentales» y ordinaria en el resto.
+- **Art. 13 LOIEMH**: corresponde a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad. Los «indicios fundados» no figuran en este artículo (sí en el art. 66.1 de la Ley 4/2023).
+- **Art. 64 LOIEMH**: es el Plan de Igualdad de la AGE, que aprueba el Gobierno al inicio de cada legislatura y evalúa anualmente el Consejo de Ministros. «A desarrollar en el convenio colectivo o acuerdo» es de la DA 7.ª.2 TREBEP. La base del III Plan es la DA 7.ª TREBEP, no el art. 64.
+- **Composición equilibrada**: DA 1.ª (definición), art. 51.d (todas las AAPP) y art. 53 (AGE). El art. 60.1 TREBEP dice «se tenderá a la paridad»; se quita «sustancialmente equivalente».
+- **Arts. 6.2, 9, 10, 11, 12, 15, 19, 20, 45, 46 y 62 LOIEMH**: redacción ajustada al texto literal (justificación «necesarios y adecuados»; queja, reclamación, denuncia, demanda o recurso; sanciones del art. 10; art. 12.2-3; Consejo de Ministros en el art. 19; registro del art. 46.4-5; principios del protocolo del art. 62).
+- **Ley 4/2023**: objeto (art. 1, que no menciona los arts. 9.2 y 14 CE), ámbito (art. 2, sin la mención a las CCAA, que no está en él), definiciones literales del art. 3 («identidad sexual», no «identidad de género»; «persona trans» sin la lista de colectivos), el art. 4 es el deber de protección (no una lista de principios), medidas en empresas en el art. 15 (no en una «DA 11.ª», que no existe), tutela de los arts. 64-66, rectificación registral de los arts. 43-44 (sin «autodeterminación» ni «simple declaración de voluntad», que no figuran en la ley). Fuera las «unidades de igualdad LGTBI en la AGE», que no están en la ley.
+- **III Plan** (contrastado con el documento oficial): composición de la Comisión según el art. 5 de su Reglamento; ámbito personal literal; Auxiliar Administrativo 87 % de mujeres; Policía Municipal 86 % de hombres; flexibilidad horaria = 62 % de las medidas de conciliación.
+- **Diagramas** D2, D3, D4, D5, D6, D7, D8, D9, D10 y D12 alineados con lo anterior (0 desbordes y 0 colisiones con `qa_svg.py`).
+- **Casos prácticos** 1-6: soluciones ajustadas a los mismos preceptos; en el caso 5 la cuestión sobre la «autodeterminación» pasa a ser sobre el procedimiento del art. 44.
+
+### Test (150 preguntas)
+
+- Cada pregunta sale del texto literal del precepto citado, o es una variación leve de él. 76 reescritas (supuestos de aplicación, preguntas de interpretación o doctrina y preguntas que dependían de errores ya corregidos) y 74 mantenidas (con, como mucho, retoques literales y su orden de opciones).
+- Respuestas correctas repartidas 50/50/50 entre a, b y c en el `.md`.
+
+---
+
 ## v1.1 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

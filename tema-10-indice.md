@@ -14,13 +14,13 @@
 | Sección | Título | Normativa | Diagrama |
 |---|---|---|---|
 | 1 | Introducción: el marco normativo de la igualdad | Arts. 1.1, 9.2, 14 y 23.2 CE | D1 |
-| 2 | LO 3/2007 (LOIEMH): objeto y ámbito de aplicación | Arts. 1-2 LOIEMH | D2 |
-| 3 | El principio de igualdad de trato y la no discriminación | Arts. 3-8 LOIEMH | D3 |
-| 4 | La tutela contra la discriminación | Arts. 9-13 LOIEMH | D4 |
-| 5 | Políticas públicas de igualdad y empleo público | Arts. 11, 14-20, 51-64 LOIEMH | D5 |
+| 2 | LO 3/2007 (LOIEMH): objeto y ámbito de aplicación | Arts. 1-2 y DF 2.ª LOIEMH | D2 |
+| 3 | El principio de igualdad de trato y la no discriminación | Arts. 3-9 LOIEMH | D3 |
+| 4 | La tutela contra la discriminación | Arts. 10-13 LOIEMH | D4 |
+| 5 | Políticas públicas de igualdad y empleo público | Arts. 15-20, 51-64 y DA 1.ª LOIEMH · DA 7.ª TREBEP | D5 |
 | 6 | Los planes de igualdad en las empresas | Arts. 45-49 LOIEMH | D6 |
 | 7 | Ley 4/2023: objeto, ámbito y definiciones | Arts. 1-3 Ley 4/2023 | D7 |
-| 8 | Ley 4/2023: principios, tutela y medidas | Arts. 4 y ss. Ley 4/2023 | D8 |
+| 8 | Ley 4/2023: deber de protección, tutela y medidas | Arts. 4, 11-15, 43-44 y 64-66 Ley 4/2023 | D8 |
 | 9 | El III Plan de Igualdad del Ayuntamiento de Madrid: naturaleza y estructura | III Plan 2024-2027 | D9 |
 | 10 | El III Plan: líneas de intervención, objetivos y seguimiento | III Plan 2024-2027 | D10, D11 |
 | 11 | Conexiones entre las tres normas, el IAM/TIC y esquema resumen | — | D12 |
@@ -29,58 +29,58 @@
 
 ## Conceptos clave por sección
 
-### Datos memorísticos de alto valor (DATO CLAVE EXAMEN)
+### Datos memorísticos de alto valor (DATO CLAVE)
 
 | Concepto | Dato | Referencia |
 |---|---|---|
 | Norma de igualdad mujeres-hombres | **LO 3/2007, de 22 de marzo** (LOIEMH) | Encabezamiento |
-| Carácter de la LOIEMH | **Mixto**: orgánica en derechos fundamentales; **ordinaria** en el resto | DF 2.ª |
-| Objeto LOIEMH | Hacer efectivo el principio de igualdad de trato y oportunidades | Art. 1 |
+| Carácter orgánico de la LOIEMH | Solo las **DA 1.ª, 2.ª y 3.ª**; el resto **no** tiene carácter orgánico | DF 2.ª |
+| Objeto LOIEMH | Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres | Art. 1 |
 | Ámbito LOIEMH | **Todas** las personas físicas y jurídicas en territorio español | Art. 2 |
-| Discriminación directa | Trato menos favorable **por razón de sexo** | Art. 6.1 |
+| Discriminación directa | Trato menos favorable **en atención a su sexo** | Art. 6.1 |
 | Discriminación indirecta | Disposición neutra que produce **desventaja particular** | Art. 6.2 |
-| Acoso sexual | Comportamiento de **naturaleza sexual** no deseado | Art. 7.1 |
-| Acoso por razón de sexo | Comportamiento **relacionado con el sexo** no deseado | Art. 7.2 |
+| Acoso sexual | Comportamiento, verbal o físico, de **naturaleza sexual** | Art. 7.1 |
+| Acoso por razón de sexo | Comportamiento **realizado en función del sexo** | Art. 7.2 |
 | Acoso = discriminación | El acoso sexual y por razón de sexo **son discriminatorios** | Art. 7.3 |
 | Indemnidad frente a represalias | Protección de quien reclama | Art. 9 |
-| Inversión de la carga de la prueba | Aportados indicios, **prueba la parte demandada** | Art. 13 |
-| Acciones positivas | Medidas a favor de las mujeres; **proporcionales y temporales** | Art. 11 |
+| Prueba | La **persona demandada** prueba la ausencia de discriminación (no en procesos penales) | Art. 13 |
+| Acciones positivas | Medidas en favor de las mujeres; **razonables y proporcionadas**, en tanto subsista la desigualdad | Art. 11 |
 | Transversalidad (*mainstreaming*) | Integrar la igualdad en **todas** las políticas | Art. 15 |
-| Informe de impacto de género | Obligatorio en disposiciones de carácter general | Art. 19 |
+| Informe de impacto de género | Proyectos de disposiciones de carácter general y planes sometidos al Consejo de Ministros | Art. 19 |
 | Estadísticas desagregadas por sexo | Obligación de los poderes públicos | Art. 20 |
-| **Presencia/composición equilibrada** | Ningún sexo **> 60 %** ni **< 40 %** | **DA 1.ª** (aplicada por art. 53) |
-| Protocolo de acoso en la AGE | Frente a acoso sexual y por razón de sexo | Art. 62 |
-| Plan de Igualdad en la AGE | Obligatorio | Art. 64 |
+| **Presencia/composición equilibrada** | Ningún sexo **> 60 %** ni **< 40 %** | **DA 1.ª** (arts. 51.d y 53) |
+| Protocolo de acoso en las AAPP | Negociado con la representación legal del personal | Art. 62 |
+| Plan de Igualdad en la AGE | Lo aprueba el Gobierno al inicio de cada legislatura | Art. 64 |
 | Planes de igualdad en empresas | Obligatorios desde **50** personas trabajadoras | Art. 45.2 |
 | Norma trans/LGTBI | **Ley 4/2023, de 28 de febrero** | Encabezamiento |
-| Tres conceptos clave Ley 4/2023 | Orientación sexual · identidad de género · expresión de género | Art. 3 |
-| Rectificación registral del sexo | **Sin requisitos médicos** (autodeterminación) | Arts. 43 y ss. |
-| Planes LGTBI en empresas | Conjunto planificado de medidas desde **50** personas | DA 11.ª + RD 1026/2024 |
-| III Plan Ayto Madrid — base legal | Art. 64 LOIEMH + DA 7.ª TREBEP (Ley 31/2022) | — |
+| Tres conceptos clave Ley 4/2023 | Orientación sexual · identidad sexual · expresión de género | Art. 3 |
+| Rectificación registral del sexo | **Sin informe médico o psicológico**; por sí mismas, mayores de 16 | Arts. 43-44 |
+| Medidas LGTBI en empresas | Conjunto planificado de medidas en empresas de **más de 50** personas | Art. 15 + RD 1026/2024 |
+| III Plan Ayto Madrid — base legal | DA 7.ª TREBEP (Ley 31/2022) | — |
 | III Plan — vigencia | **1-ene-2024 a 31-dic-2027** | III Plan |
 | III Plan — aprobación | JGCM **28-dic-2023** · BOAM 11-ene-2024 | BOAM 9547/70 |
 | III Plan — estructura | **3 líneas · 13 objetivos específicos** | III Plan |
 | III Plan — Comisión de Igualdad | Paritaria, preside la **DG de Función Pública** | III Plan |
-| III Plan — seguimiento | **Semestral** · informe **anual** · diagnóstico **bienal** | III Plan |
+| III Plan — seguimiento | **Al menos semestral** · informe **anual** · diagnóstico **bienal** | III Plan |
 
 ### Las tres normas del tema de un vistazo
 
 | | LO 3/2007 (LOIEMH) | Ley 4/2023 (trans/LGTBI) | III Plan Ayto Madrid |
 |---|---|---|---|
-| Naturaleza | Ley estatal (mixta) | Ley estatal ordinaria | Instrumento de planificación municipal |
-| Eje protegido | **Sexo** (mujeres/hombres) | Orientación sexual, identidad y expresión de género | Igualdad mujeres-hombres en la plantilla |
+| Naturaleza | Ley orgánica (solo DA 1.ª-3.ª tienen carácter orgánico) | Ley estatal ordinaria | Plan para la Igualdad (DA 7.ª TREBEP) |
+| Eje protegido | **Sexo** (mujeres/hombres) | Orientación e identidad sexual, expresión de género y características sexuales | Igualdad mujeres-hombres en la plantilla |
 | Ámbito | Todo el territorio español | Todo el territorio nacional | Personal del Ayto. de Madrid y sus OO.AA. |
 | Vigencia | Desde 2007 (consolidada) | Desde 2023 | 2024-2027 |
-| Pieza clave examen | Discriminación directa/indirecta; 40-60 % | Autodeterminación de género | 3 líneas / 13 objetivos |
+| Datos clave | Discriminación directa/indirecta; 40-60 % | Rectificación registral sin informe médico | 3 líneas / 13 objetivos |
 
 ### Discriminación y acoso (LOIEMH) — distinciones que se confunden
 
 | Figura | Definición sintética | Artículo |
 |---|---|---|
-| Discriminación **directa** | Trato menos favorable por razón de sexo | Art. 6.1 |
-| Discriminación **indirecta** | Criterio neutro → desventaja particular, sin justificación objetiva | Art. 6.2 |
-| **Acoso sexual** | Comportamiento de naturaleza **sexual** no deseado | Art. 7.1 |
-| Acoso **por razón de sexo** | Comportamiento **relacionado con el sexo** no deseado | Art. 7.2 |
+| Discriminación **directa** | Trato menos favorable en atención al sexo | Art. 6.1 |
+| Discriminación **indirecta** | Criterio aparentemente neutro → desventaja particular, salvo justificación objetiva | Art. 6.2 |
+| **Acoso sexual** | Comportamiento de naturaleza **sexual** | Art. 7.1 |
+| Acoso **por razón de sexo** | Comportamiento **realizado en función del sexo** | Art. 7.2 |
 | Discriminación por **embarazo/maternidad** | Trato desfavorable por estas causas | Art. 8 |
 
 ---
@@ -96,8 +96,8 @@
 ## Recorrido recomendado de estudio
 
 1. **Marco constitucional** (sección 1) — el fundamento de la igualdad formal (art. 14) y material (art. 9.2) y la relación entre las tres normas del tema.
-2. **LOIEMH — núcleo conceptual** (secciones 2-4) — objeto y ámbito, la pareja discriminación directa/indirecta, el acoso y la tutela (indemnidad + inversión de la carga de la prueba).
-3. **LOIEMH — políticas y empleo** (secciones 5-6) — transversalidad, acciones positivas, presencia equilibrada 40-60 % y planes de igualdad (AAPP y empresas).
-4. **Ley 4/2023** (secciones 7-8) — los tres conceptos clave (orientación, identidad, expresión), la autodeterminación de género y la rectificación registral.
+2. **LOIEMH — núcleo conceptual** (secciones 2-4) — objeto y ámbito, la pareja discriminación directa/indirecta, el acoso y la tutela (indemnidad + prueba).
+3. **LOIEMH — políticas y empleo** (secciones 5-6) — transversalidad, composición equilibrada 40-60 % y planes de igualdad (AAPP y empresas).
+4. **Ley 4/2023** (secciones 7-8) — los tres conceptos clave (orientación sexual, identidad sexual, expresión de género), la tutela y la rectificación registral.
 5. **III Plan del Ayuntamiento de Madrid** (secciones 9-10) — ficha (vigencia, base legal, Comisión), las 3 líneas / 13 objetivos y el sistema de seguimiento.
 6. **Aplicación al IAM/TIC y simulacro** (sección 11) — conexiones con el puesto TIC, test (150 preguntas) y casos prácticos.
